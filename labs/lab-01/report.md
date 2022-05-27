@@ -11,3 +11,12 @@ I thought the article was really interesting and sad. A student who had nothing 
 
 3.3:
 ![lab1_2](https://user-images.githubusercontent.com/85561037/170736741-6e230ac1-4360-44e9-9a13-6df709973051.PNG)
+
+4.1:
+![lab1_4 1_1](https://user-images.githubusercontent.com/85561037/170737774-c687e442-ce59-4fc0-9da2-48de0e8ebc4e.PNG)
+![lab1_4 1_2](https://user-images.githubusercontent.com/85561037/170764755-c33a5c73-15ed-4eeb-8223-5cd53df37aed.PNG)
+![lab1_4 1_3](https://user-images.githubusercontent.com/85561037/170764776-a21220f6-d15f-403b-93b8-efb4f92a97ff.PNG)
+![lab1_4 1_4](https://user-images.githubusercontent.com/85561037/170764794-a34c40cc-8d80-4b9e-b949-c7a3fbcb4f73.PNG)
+![lab1_4 1_5](https://user-images.githubusercontent.com/85561037/170764807-27969955-0779-4b53-9303-efa3c4a146b3.PNG)
+![lab1_4 1_6](https://user-images.githubusercontent.com/85561037/170764822-d7addb48-e8fe-42dd-a264-c14d480e96f4.PNG)
+![lab1_4 1_7](https://user-images.githubusercontent.com/85561037/170764829-4a9f4437-8916-4f21-91d5-fd9225b46bc7.PNG)
