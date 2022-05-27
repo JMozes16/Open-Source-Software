@@ -2,7 +2,7 @@
 ## Josh Mozes
 
 ## Bio
-Class of '24, CS major.
+Class of '24, CS major. Discord: Josh Mozes#8796
 ![IMG_2337](https://user-images.githubusercontent.com/85561037/170725267-65fc3d4e-a5bb-4990-a475-046e2f535253.jpg)
 
 
