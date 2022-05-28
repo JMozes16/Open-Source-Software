@@ -20,3 +20,9 @@ I thought the article was really interesting and sad. A student who had nothing 
 ![lab1_4 1_5](https://user-images.githubusercontent.com/85561037/170764807-27969955-0779-4b53-9303-efa3c4a146b3.PNG)
 ![lab1_4 1_6](https://user-images.githubusercontent.com/85561037/170764822-d7addb48-e8fe-42dd-a264-c14d480e96f4.PNG)
 ![lab1_4 1_7](https://user-images.githubusercontent.com/85561037/170764829-4a9f4437-8916-4f21-91d5-fd9225b46bc7.PNG)
+
+4.2:
+![lab1_4 2_1](https://user-images.githubusercontent.com/85561037/170841668-e0894288-4561-41bf-8b2c-926077a3fe11.PNG)
+![lab1_4 2_2](https://user-images.githubusercontent.com/85561037/170841670-a7b1d054-622b-4d69-a880-697054c85feb.PNG)
+![lab1_4 2_3](https://user-images.githubusercontent.com/85561037/170841678-648ff072-8d30-4781-983a-349cfa1fa692.PNG)
+![lab1_4 2_4](https://user-images.githubusercontent.com/85561037/170841679-5682abc9-39a5-4420-8cf0-065ded42238f.PNG)
