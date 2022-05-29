@@ -31,3 +31,4 @@ I thought the article was really interesting and sad. A student who had nothing 
 ![image](https://user-images.githubusercontent.com/85561037/170885680-bf68db31-fad1-4dbc-95a9-67d1ef968e06.png)
 
 6:
+I picked Git. It is a great version control system for allowing many collaborators on a private or open source project at once. It allows for local changes to be pushed and approved as branches, then to be merged to the public master branch. I also like how you can go back and see the commit and merge histories as a DAG. Using git would be very helpful for any type of project that anyone may work on, even if working alone on the project. I have two projects in mind right now, PollBuddy and Bris (a boolean algebra verifier I have been working on).
