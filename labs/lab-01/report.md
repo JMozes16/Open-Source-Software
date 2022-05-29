@@ -26,3 +26,8 @@ I thought the article was really interesting and sad. A student who had nothing 
 ![lab1_4 2_2](https://user-images.githubusercontent.com/85561037/170841670-a7b1d054-622b-4d69-a880-697054c85feb.PNG)
 ![lab1_4 2_3](https://user-images.githubusercontent.com/85561037/170841678-648ff072-8d30-4781-983a-349cfa1fa692.PNG)
 ![lab1_4 2_4](https://user-images.githubusercontent.com/85561037/170841679-5682abc9-39a5-4420-8cf0-065ded42238f.PNG)
+
+5:
+![image](https://user-images.githubusercontent.com/85561037/170885680-bf68db31-fad1-4dbc-95a9-67d1ef968e06.png)
+
+6:
