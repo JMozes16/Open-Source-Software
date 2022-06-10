@@ -71,7 +71,7 @@ Current branches:
         CatanReasearch
         Simple_Bot
        
-4: ii:
+4: iii:
 Aris:
 Gitstats said there are 13182 vs the GithHub 13174.
 Gitstats said there are 24 authors vs the 17 GitHub contributers (I'm guessing the difference is because of current contributers vs everyone who has contributed)
