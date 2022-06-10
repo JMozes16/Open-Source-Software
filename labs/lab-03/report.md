@@ -1,3 +1,7 @@
+Part 1:
+
+1.3)
+![image](https://user-images.githubusercontent.com/85561037/173131005-a5065d23-002c-45f5-8a7a-f51ec43a4660.png)
 
 
 
