@@ -80,3 +80,21 @@ Aris:
 Gitstats said there are 13182 vs the GithHub 13174.
 Gitstats said there are 24 authors vs the 17 GitHub contributers (I'm guessing the difference is because of current contributers vs everyone who has contributed)
 The dates for the first and last commits are the exact same.
+
+5.
+ClickBaitChromeExtension:
+![image](https://user-images.githubusercontent.com/85561037/173135470-e6046952-0a69-4ce3-8c01-d400587cae4b.png)
+
+TutorBase:
+![image](https://user-images.githubusercontent.com/85561037/173135767-bea107dd-09cb-4cb3-88f0-14f02033213c.png)
+
+Aris:
+![image](https://user-images.githubusercontent.com/85561037/173135806-526bdc43-61e6-410b-a90e-e9e8a190f45d.png)
+
+Anagrams:
+![image](https://user-images.githubusercontent.com/85561037/173135863-695ca6ac-1d2c-4c0a-a46f-5bd8cbc54f0c.png)
+
+Catan-AI:
+![image](https://user-images.githubusercontent.com/85561037/173135926-967a4835-2dbc-4589-b5cc-9e70a1e4ad59.png)
+
+
