@@ -3,6 +3,17 @@ Part 1:
 1.3)
 ![image](https://user-images.githubusercontent.com/85561037/173131005-a5065d23-002c-45f5-8a7a-f51ec43a4660.png)
 
+1.4)
+![image](https://user-images.githubusercontent.com/85561037/173429315-fb261fff-5d81-47fd-9838-2e318cf893cd.png)
+
+1.5)
+The PDF was made at "C:\Users\JoshM\Documents\GitHub\CSCI-4470-OpenSource\Modules\01.Introduction\History\build\latex". 
+Images of it running:
+![image](https://user-images.githubusercontent.com/85561037/173438253-297722b9-c435-43f3-b81c-591a675a8e78.png)
+![image](https://user-images.githubusercontent.com/85561037/173438308-f35883b5-f0e7-4c69-b6af-75b472da8d10.png)
+![image](https://user-images.githubusercontent.com/85561037/173438351-ec26ddab-3522-427f-a49f-6a4da8220086.png)
+
+
 
 
 Part 2:
