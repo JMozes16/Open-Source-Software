@@ -21,3 +21,11 @@ CMakelists:
 ![image](https://user-images.githubusercontent.com/85561037/174668448-eecbca8a-dd45-4d72-80eb-bebda5fa2c82.png)
 
 Step 5:
+Output:
+![image](https://user-images.githubusercontent.com/85561037/174671551-ad7855ed-937b-40d7-97d7-334819ede54d.png)
+MathFunctions/CMakeLists:
+![image](https://user-images.githubusercontent.com/85561037/174671673-c559c872-d1f9-42e3-acec-4aba7a0a242d.png)
+CMakeLists:
+![image](https://user-images.githubusercontent.com/85561037/174671734-6e9c1a8b-3e30-4a93-98ce-071714649beb.png)
+
+Parts 2:
