@@ -11,3 +11,13 @@ Step3:
 ![image](https://user-images.githubusercontent.com/85561037/174338000-4556f5c3-67b1-416c-93ca-bcc0316c3a64.png)
 
 Step 4:
+ctest -VV:
+![image](https://user-images.githubusercontent.com/85561037/174668175-a4a846aa-f5f8-48fc-8538-adce4bcfdb65.png)
+MathFunctions/CMakeLists:
+![image](https://user-images.githubusercontent.com/85561037/174668282-edcc1f97-8ba9-46a8-b682-85686ee37d21.png)
+CMakelists:
+![image](https://user-images.githubusercontent.com/85561037/174668354-b9197bae-7f8a-4495-8d12-c33b13130af5.png)
+![image](https://user-images.githubusercontent.com/85561037/174668419-31f07a6a-22d6-46fa-b35b-10e27198409b.png)
+![image](https://user-images.githubusercontent.com/85561037/174668448-eecbca8a-dd45-4d72-80eb-bebda5fa2c82.png)
+
+Step 5:
