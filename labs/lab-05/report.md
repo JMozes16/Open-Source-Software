@@ -28,4 +28,12 @@ MathFunctions/CMakeLists:
 CMakeLists:
 ![image](https://user-images.githubusercontent.com/85561037/174671734-6e9c1a8b-3e30-4a93-98ce-071714649beb.png)
 
-Parts 2:
+## Part 2:
+
+Output:
+![image](https://user-images.githubusercontent.com/85561037/174698399-661d5bd3-67bb-4526-8e30-0a697faf78f9.png)
+
+Makefile:
+![image](https://user-images.githubusercontent.com/85561037/174699006-01c11ea9-65b5-4597-863f-a272c2c7e037.png)
+
+
