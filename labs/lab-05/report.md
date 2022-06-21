@@ -36,4 +36,11 @@ Output:
 Makefile:
 ![image](https://user-images.githubusercontent.com/85561037/174699006-01c11ea9-65b5-4597-863f-a272c2c7e037.png)
 
+CMake file:
+![image](https://user-images.githubusercontent.com/85561037/174700180-b8752dde-73d7-4d7e-a9a8-1449ae71d6ee.png)
 
+Generated Makefile submitted seperately.
+
+Size of executables:
+![image](https://user-images.githubusercontent.com/85561037/174700578-c7a0943f-6ef0-409b-9d5d-4bbfabb88a03.png)
+They have similar sizes, but the static_block is 16856, while the dynamic block is 16696 bytes. So the dynamic block (shared lib) is a little smaller than the static one.
