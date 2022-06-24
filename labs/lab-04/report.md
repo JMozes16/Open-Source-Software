@@ -12,7 +12,7 @@ I agree with the authors claim. I think that the technology of the Gopher was in
 .NET uses an MIT License. .NET is the foundation for building many apps, so it makes sense for it to be on a very permissive license such as the MIT License. The lead software developer for Chipotle said "In less than 20 minutes, I had a working prototype in .NET Core, deployed to Azure, with permissions properly set up…. Instead of spending a lot of time debating theories and approaches with no prior experience to rely on, we had a working demo ready to drive decision making in minutes." This shows how it is useful for .NET to have a MIT License, so that other companies can easily use their code with permissions set up properly. https://customers.microsoft.com/en-us/story/787157-chipotle-retailers-azure
 
 7.
-
+https://github.com/aryash14/check-7
 
 8.
 Website | License Present | License
