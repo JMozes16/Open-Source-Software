@@ -21,3 +21,4 @@ https://github.com/carolynann/rcos-campuswatch | Yes | MIT License https://opens
 https://github.com/sinhac/labyrinth | Yes | GPL-2.0 License https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 https://github.com/gaskij/rpicampusmap | Yes | GPL-3.0 License https://www.gnu.org/licenses/gpl-3.0.en.html
 https://github.com/astrokey/astrokey.github.io | Yes | MIT License https://opensource.org/licenses/MIT
+https://github.com/apexal/late | Yes | MIT License https://opensource.org/licenses/MIT
