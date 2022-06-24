@@ -9,3 +9,6 @@ You should not use a project that doesn't have an explicit license. If it doesn'
 I agree with the authors claim. I think that the technology of the Gopher was inferior to that of the Web due to the wrong model of hypertext, inferior infrasructure and cheaper computing resources. Also, the mind share/social influence of the Web was greater than that of Gopher.
 
 6.
+.NET uses an MIT License. .NET is the foundation for building many apps, so it makes sense for it to be on a very permissive license such as the MIT License. The lead software developer for Chipotle said "In less than 20 minutes, I had a working prototype in .NET Core, deployed to Azure, with permissions properly set up…. Instead of spending a lot of time debating theories and approaches with no prior experience to rely on, we had a working demo ready to drive decision making in minutes." This shows how it is useful for .NET to have a MIT License, so that other companies can easily use their code with permissions set up properly.
+
+7.
