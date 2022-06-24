@@ -18,19 +18,11 @@ I agree with the authors claim. I think that the technology of the Gopher was in
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/bram-hub/aris | Yes | GPL-3.0 License https://www.gnu.org/licenses/gpl-3.0.en.html
-
-Website | License Present | License
 ---------|:----------|:-------
 https://github.com/carolynann/rcos-campuswatch | Yes | MIT License https://opensource.org/licenses/MIT
-
-Website | License Present | License
 ---------|:----------|:-------
 https://github.com/sinhac/labyrinth | Yes | GPL-2.0 License https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
-
-Website | License Present | License
 ---------|:----------|:-------
 https://github.com/gaskij/rpicampusmap | Yes | GPL-3.0 License https://www.gnu.org/licenses/gpl-3.0.en.html
-
-Website | License Present | License
 ---------|:----------|:-------
 https://github.com/astrokey/astrokey.github.io | Yes | MIT License https://opensource.org/licenses/MIT
