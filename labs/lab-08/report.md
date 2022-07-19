@@ -21,6 +21,9 @@ Successful run after fix:
 ![image](https://user-images.githubusercontent.com/85561037/179637265-1e85b82f-8c41-4b1a-81b2-96e1dd1b41a1.png)
 
 # Step 4
+link to repo:
+
+https://github.com/JMozes16/Check4_lab08
 
 
 # Step 5
