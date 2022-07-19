@@ -13,7 +13,12 @@ There are no errors, this is consistent with the dashboard of projects using sim
 
 
 # Step 3
-
+![image](https://user-images.githubusercontent.com/85561037/179635338-a87bc334-9b74-460a-afc8-8633ab879e5f.png)
+![image](https://user-images.githubusercontent.com/85561037/179635775-36cc7c15-f379-4206-9f29-0b4405355e4a.png)
+The error is shown as the date being wrong. The txt file says 2000 - 2002, but it is 2022. So the fix is to change it to 2022.
+![image](https://user-images.githubusercontent.com/85561037/179636065-2e42c250-f57b-4110-be75-f21aad2b26b5.png)
+Successful run after fix:
+![image](https://user-images.githubusercontent.com/85561037/179637265-1e85b82f-8c41-4b1a-81b2-96e1dd1b41a1.png)
 
 # Step 4
 
