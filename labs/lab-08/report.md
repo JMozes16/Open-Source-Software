@@ -25,6 +25,9 @@ link to repo:
 
 https://github.com/JMozes16/Check4_lab08
 
+![image](https://user-images.githubusercontent.com/85561037/179640610-82fe02ae-2b36-4a23-85d8-b1df3a2e949b.png)
+![image](https://user-images.githubusercontent.com/85561037/179640660-8fa7f605-681f-446a-8f20-e21d525d8b95.png)
+
 
 # Step 5
-
+For the project, my group has made the project proposal. I have started looking into documentation and testing suites for the logical rules for B-RIS.
