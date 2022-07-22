@@ -4,3 +4,7 @@
 
 # ex 01
 
+![image](https://user-images.githubusercontent.com/85561037/180471273-7616ae68-a9ca-4cab-9b0e-1859f0f2dcba.png)
+
+# ex 02
+
