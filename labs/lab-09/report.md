@@ -21,3 +21,9 @@ list messages:
 
 Posting messages:
 ![image](https://user-images.githubusercontent.com/85561037/180899732-f9192684-d44a-41e7-89fe-d79f8ed62712.png)
+
+Modify message:
+![image](https://user-images.githubusercontent.com/85561037/180900087-12ecaf80-35a6-4369-9878-73552fc0dee9.png)
+
+Delete message:
+![image](https://user-images.githubusercontent.com/85561037/180900320-991134ff-9881-4d98-8ea9-5f5b8fc5f43e.png)
