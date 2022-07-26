@@ -7,6 +7,9 @@
 ![image](https://user-images.githubusercontent.com/85561037/180471273-7616ae68-a9ca-4cab-9b0e-1859f0f2dcba.png)
 
 # ex 02
+Errors! Talked with prof Turner for a while and we couldn't resolve the errors. He recommended I move to the next step since they don't build off of each other. The folowing is the error (none of the attempted fixes seemed to change the output):
+![image](https://user-images.githubusercontent.com/85561037/180900544-c19ae797-da08-4b67-8d9d-a63711803524.png)
+
 
 # ex 03
 ![image](https://user-images.githubusercontent.com/85561037/180890549-652b416e-d3e4-4baf-945d-babd5d1e09db.png)
