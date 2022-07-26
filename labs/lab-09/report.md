@@ -13,3 +13,5 @@
 ![image](https://user-images.githubusercontent.com/85561037/180890575-afe7232b-ce06-4df8-89cd-3e0cb8a89be9.png)
 
 # ex 04
+docker-compose up:
+![image](https://user-images.githubusercontent.com/85561037/180899377-0fda3887-0d80-442b-b643-426309e5d5e9.png)
