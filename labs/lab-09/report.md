@@ -15,3 +15,9 @@
 # ex 04
 docker-compose up:
 ![image](https://user-images.githubusercontent.com/85561037/180899377-0fda3887-0d80-442b-b643-426309e5d5e9.png)
+
+list messages:
+![image](https://user-images.githubusercontent.com/85561037/180899523-d29333e0-46ca-457b-907a-18e7c22f30ff.png)
+
+Posting messages:
+![image](https://user-images.githubusercontent.com/85561037/180899732-f9192684-d44a-41e7-89fe-d79f8ed62712.png)
