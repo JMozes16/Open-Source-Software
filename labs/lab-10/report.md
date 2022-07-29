@@ -53,6 +53,11 @@ create albums again:
 creating albums-backup with -v:
 ![image](https://user-images.githubusercontent.com/85561037/181818642-bb2cfc76-2a0e-4583-a216-f7586641a76d.png)
 
+1.7.3:
+
+Creating document:
+![image](https://user-images.githubusercontent.com/85561037/181821471-bbde2307-71fb-4ade-b68c-cf3ea472bda6.png)
+
 
 # Checkpoint 4
 
