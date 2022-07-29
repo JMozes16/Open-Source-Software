@@ -56,7 +56,7 @@ creating albums-backup with -v:
 1.7.3:
 
 Creating document:
-![image](https://user-images.githubusercontent.com/85561037/181821471-bbde2307-71fb-4ade-b68c-cf3ea472bda6.png)
+![image](https://user-images.githubusercontent.com/85561037/181822154-db31169b-8e03-425e-b37f-fbe06ac34359.png)
 
 
 # Checkpoint 4
