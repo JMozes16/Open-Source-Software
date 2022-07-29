@@ -30,6 +30,9 @@ first document
 query for 1988 film
 ![image](https://user-images.githubusercontent.com/85561037/181803902-1f4faaee-daac-4e13-a599-c6e2c2f4ad17.png)
 
+query for all 1980's movies
+![image](https://user-images.githubusercontent.com/85561037/181804032-b3c96a4a-095a-4c23-9031-b9f58148a6b5.png)
+
 
 
 # Checkpoint 3
