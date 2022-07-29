@@ -39,6 +39,13 @@ replication
 
 
 # Checkpoint 3
+1.7.1:
+![image](https://user-images.githubusercontent.com/85561037/181817738-71c0fe16-f29b-4797-9179-1b09488da051.png)
+
+1.7.2:
+
+create albums database:
+![image](https://user-images.githubusercontent.com/85561037/181818093-18192783-c7bd-4783-9721-175cd4265280.png)
 
 
 # Checkpoint 4
