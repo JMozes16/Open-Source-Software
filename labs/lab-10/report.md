@@ -33,6 +33,9 @@ query for 1988 film
 query for all 1980's movies
 ![image](https://user-images.githubusercontent.com/85561037/181804032-b3c96a4a-095a-4c23-9031-b9f58148a6b5.png)
 
+replication
+![image](https://user-images.githubusercontent.com/85561037/181804840-72bb9b87-9acb-48b8-8a02-31dfe3a30c5f.png)
+![image](https://user-images.githubusercontent.com/85561037/181804793-a0e90b8a-87d2-4c86-90fe-23714db3557e.png)
 
 
 # Checkpoint 3
