@@ -82,4 +82,5 @@ replicate:
 ![image](https://user-images.githubusercontent.com/85561037/181839418-e0fe1b62-c9d5-473b-9db4-a086f5d385de.png)
 
 3:
+![image](https://user-images.githubusercontent.com/85561037/181840190-432a5c17-aa2d-4ccb-93a5-05c6c8212672.png)
 
