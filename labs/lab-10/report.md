@@ -75,6 +75,11 @@ replicate:
 
 
 # Checkpoint 4
+1:
 ![image](https://user-images.githubusercontent.com/85561037/181839204-f9d24964-5ac3-4048-8fa5-5e18b8cd9c22.png)
 
+2:
+![image](https://user-images.githubusercontent.com/85561037/181839418-e0fe1b62-c9d5-473b-9db4-a086f5d385de.png)
+
+3:
 
