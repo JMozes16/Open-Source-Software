@@ -58,8 +58,12 @@ creating albums-backup with -v:
 Creating document:
 ![image](https://user-images.githubusercontent.com/85561037/181822154-db31169b-8e03-425e-b37f-fbe06ac34359.png)
 
-with/withou \_rev number:
+with/without \_rev number:
 ![image](https://user-images.githubusercontent.com/85561037/181824625-e606eb33-d706-487a-bcea-8228828196bd.png)
+
+add new document:
+![image](https://user-images.githubusercontent.com/85561037/181825268-468e85b6-2df0-43a3-9539-7b668baa7bd4.png)
+
 
 
 # Checkpoint 4
