@@ -27,6 +27,10 @@ removing plankton
 first document
 ![image](https://user-images.githubusercontent.com/85561037/181803145-a9736f27-aa73-4c9d-8e71-b1ea055cde85.png)
 
+query for 1988 film
+![image](https://user-images.githubusercontent.com/85561037/181803902-1f4faaee-daac-4e13-a599-c6e2c2f4ad17.png)
+
+
 
 # Checkpoint 3
 
