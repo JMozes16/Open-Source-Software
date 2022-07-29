@@ -70,6 +70,9 @@ adding artwork:
 reply:
 ![image](https://user-images.githubusercontent.com/85561037/181829451-0273a59d-1105-44fa-8bd0-58b193b19d42.png)
 
+replicate:
+![image](https://user-images.githubusercontent.com/85561037/181830337-994f35ca-85b7-4e3f-978d-10c1fe581d9d.png)
+
 
 # Checkpoint 4
 
