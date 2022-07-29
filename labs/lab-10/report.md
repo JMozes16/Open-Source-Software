@@ -47,6 +47,12 @@ replication
 create albums database:
 ![image](https://user-images.githubusercontent.com/85561037/181818093-18192783-c7bd-4783-9721-175cd4265280.png)
 
+create albums again:
+![image](https://user-images.githubusercontent.com/85561037/181818439-5bf9c7b6-436e-4f83-80d3-a3db8ef5a9d1.png)
+
+creating albums-backup with -v:
+![image](https://user-images.githubusercontent.com/85561037/181818642-bb2cfc76-2a0e-4583-a216-f7586641a76d.png)
+
 
 # Checkpoint 4
 
