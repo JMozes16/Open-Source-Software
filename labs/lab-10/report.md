@@ -15,6 +15,15 @@ curl -X GET http://admin:password@127.0.0.1:5984/_all_dbs
 adding baseball
 ![image](https://user-images.githubusercontent.com/85561037/181800829-e2a06acb-6d3c-49b6-8935-111486f89957.png)
 
+adding baseball again
+![image](https://user-images.githubusercontent.com/85561037/181801047-92840e83-f016-4ce1-a44e-c0add31f6d63.png)
+
+adding plankton
+![image](https://user-images.githubusercontent.com/85561037/181801216-1b84fb4e-0295-43dc-8a86-0108ed6575c3.png)
+
+removing plankton
+![image](https://user-images.githubusercontent.com/85561037/181801325-e5bcd88e-bcce-4047-80ad-d9741b7b4a68.png)
+
 
 
 # Checkpoint 3
