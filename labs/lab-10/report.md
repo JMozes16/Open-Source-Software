@@ -64,6 +64,8 @@ with/without \_rev number:
 add new document:
 ![image](https://user-images.githubusercontent.com/85561037/181825268-468e85b6-2df0-43a3-9539-7b668baa7bd4.png)
 
+adding artwork:
+![image](https://user-images.githubusercontent.com/85561037/181829212-1c8f00bc-692e-4f77-86bd-280df132f1e8.png)
 
 
 # Checkpoint 4
