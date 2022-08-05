@@ -20,6 +20,7 @@ Verifying predictions:
 ![image](https://user-images.githubusercontent.com/85561037/183120208-1e942024-a1d6-433f-9790-1bfc34015a50.png)
 ![image](https://user-images.githubusercontent.com/85561037/183120666-9c312316-fe29-4952-a671-eca27d800367.png)
 ![image](https://user-images.githubusercontent.com/85561037/183120913-fb35b9d0-b510-4166-a349-0c63c8e6b1d7.png)
+![image](https://user-images.githubusercontent.com/85561037/183121036-70bafd42-0875-4356-9e7b-38c7a29127bb.png)
 
 
 # Check 3
