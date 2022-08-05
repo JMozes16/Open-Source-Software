@@ -15,6 +15,10 @@ Displaying first 25:
 Accuracy:
 ![image](https://user-images.githubusercontent.com/85561037/183114934-26ad72ba-c95d-4d85-8f03-f7b80252a94a.png)
 
+Verifying predictions:
+![image](https://user-images.githubusercontent.com/85561037/183120020-e24cf09c-5a0d-4a44-9a65-4b4ab8856843.png)
+![image](https://user-images.githubusercontent.com/85561037/183120208-1e942024-a1d6-433f-9790-1bfc34015a50.png)
+
 
 # Check 3
 
