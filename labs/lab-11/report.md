@@ -9,6 +9,9 @@ Plot.show():
 Preprocessing data:
 ![image](https://user-images.githubusercontent.com/85561037/183111599-d11ce788-a32f-4020-a2d7-5752e4fb0024.png)
 
+Displaying first 25:
+![image](https://user-images.githubusercontent.com/85561037/183112148-c39d8e4a-8abf-4989-968f-ee40a4cf29a6.png)
+
 
 # Check 3
 
