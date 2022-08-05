@@ -18,6 +18,7 @@ Accuracy:
 Verifying predictions:
 ![image](https://user-images.githubusercontent.com/85561037/183120020-e24cf09c-5a0d-4a44-9a65-4b4ab8856843.png)
 ![image](https://user-images.githubusercontent.com/85561037/183120208-1e942024-a1d6-433f-9790-1bfc34015a50.png)
+![image](https://user-images.githubusercontent.com/85561037/183120666-9c312316-fe29-4952-a671-eca27d800367.png)
 
 
 # Check 3
