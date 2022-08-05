@@ -12,6 +12,9 @@ Preprocessing data:
 Displaying first 25:
 ![image](https://user-images.githubusercontent.com/85561037/183112148-c39d8e4a-8abf-4989-968f-ee40a4cf29a6.png)
 
+Accuracy:
+![image](https://user-images.githubusercontent.com/85561037/183114934-26ad72ba-c95d-4d85-8f03-f7b80252a94a.png)
+
 
 # Check 3
 
