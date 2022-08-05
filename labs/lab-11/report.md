@@ -22,6 +22,9 @@ Verifying predictions:
 ![image](https://user-images.githubusercontent.com/85561037/183120913-fb35b9d0-b510-4166-a349-0c63c8e6b1d7.png)
 ![image](https://user-images.githubusercontent.com/85561037/183121036-70bafd42-0875-4356-9e7b-38c7a29127bb.png)
 
+9000-9014:
+![image](https://user-images.githubusercontent.com/85561037/183141749-a2b63e98-ab82-40f5-9969-5b2233b3884e.png)
+
 
 # Check 3
 
