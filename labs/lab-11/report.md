@@ -27,4 +27,4 @@ Verifying predictions:
 
 
 # Check 3
-
+Having struggles with permission errors and tensorflow trying to access downloaded images through PIL. Will just let this lab get dropped...
